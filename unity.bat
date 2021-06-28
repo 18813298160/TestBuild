@@ -6,5 +6,5 @@ REM "C:\Program Files\Unity\Editor\Unity.exe" -projectPath C:\Users\hushiyu\Desk
  
 "C:\Program Files\Unity\Editor\Unity.exe" -projectPath %2 -quit -batchmode -executeMethod BuildTest.Test -logFile build.log
  
-echo generate apk done!  
+echo generate apk done test1!  
 pause 
